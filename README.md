@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matheusbaptistas
-- 👀 I’m interested in data
+- 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me matheusbaptista@icloud.com
